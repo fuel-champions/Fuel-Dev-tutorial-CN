@@ -1,18 +1,3 @@
-# Sway-tutorial-CN
-
-面向中文开发者的 Sway 教程。
-
-## Link
-[twitter](https://github.com/FuelDevCN)
- 
-[Document](https://docs.fueldev.xyz/docs/sway/basics/variables/)
-
-## LICENSE
-MIT
-
-以下是一个GitHub README 文件的Markdown模板，主要内容为Fuel Network中文开发者的教程：
-
-```markdown
 # Fuel Network 中文开发者教程
 
 欢迎来到Fuel Network中文开发者教程！本教程将指导您如何在Fuel Network上进行开发，帮助您快速上手并掌握核心概念。
@@ -29,8 +14,7 @@ MIT
 8. [参考资料](#参考资料)
 
 ## 简介
-
-Fuel Network 是一个高性能的区块链平台，专注于扩展性和可编程性。它采用了独特的架构设计，支持快速和安全的智能合约执行。本教程旨在帮助中文开发者快速了解并掌握在Fuel Network上进行开发的基本技能。
+Fuel 是一个基于 UTXO 的模块化执行层，为以太坊带来了全球可访问的规模。作为模块化执行层，Fuel 可以以单片链无法实现的方式实现全局吞吐量，同时继承以太坊的安全性。
 
 ## 环境配置
 
@@ -122,7 +106,4 @@ forc test
 - [Rust 编程语言](https://www.rust-lang.org/zh-CN/)
 
 感谢您的阅读！希望本教程能帮助您在Fuel Network上快速上手并进行开发。如果您有任何问题或建议，请提交 issue 或 pull request。
-```
-
-此README模板包括了从环境配置到部署与测试的所有基本步骤，帮助中文开发者快速上手Fuel Network开发。如果需要更多细节或特定指导，请根据具体需求进行调整和扩展。
 
