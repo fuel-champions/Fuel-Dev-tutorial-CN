@@ -1,6 +1,6 @@
 # Sway-tutorial-CN
 
-Sway tutorial for Chinese developer.
+面向中文开发者的 Sway 教程。
 
 ## Link
 [twitter](https://github.com/FuelDevCN)
