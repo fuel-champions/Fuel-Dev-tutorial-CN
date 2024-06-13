@@ -1,6 +1,8 @@
 # Fuel Network 中文开发者教程
 
-欢迎来到Fuel Network中文开发者教程！本教程将指导您如何在Fuel Network上进行开发，帮助您快速上手并掌握核心概念。
+欢迎来到Fuel Network中文开发者教程！
+
+本教程将指导您如何在Fuel Network上进行开发，帮助您快速上手并掌握核心概念。
 
 
 
