@@ -1,4 +1,4 @@
-# sway-tutorial-CN
+# Sway-tutorial-CN
 
 Sway tutorial for Chinese developer.
 
