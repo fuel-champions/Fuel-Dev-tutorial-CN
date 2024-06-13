@@ -124,7 +124,7 @@ FuelDevCN是自主发起的Fuel中文开发者社区，持续构建和更新Fuel
 
 
 ### 微信群
-请加 ‘ YanboAtWeb3 ’  备注 Fuel
+请加 `YanboAtWeb3` 备注 Fuel
 
 
 ### 邮件
