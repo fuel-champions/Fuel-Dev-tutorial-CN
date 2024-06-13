@@ -119,7 +119,7 @@ forc test
 ## 关于我们
 FuelDevCN是自主发起的Fuel中文开发者社区，持续构建和更新Fuel及Swag语言相关中文信息、资讯、教程及其研报。
 
-### Twitter
+### X/Twitter
 [![Twitter](https://img.shields.io/badge/@fueldevcn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fueldevcn)
 
 
