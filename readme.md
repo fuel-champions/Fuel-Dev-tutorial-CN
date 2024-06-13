@@ -2,7 +2,6 @@
 
 Sway tutorial for Chinese developer.
 
-
 ## Link
 [FuelDevCN](https://github.com/FuelDevCN)
  
