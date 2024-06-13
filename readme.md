@@ -3,7 +3,10 @@
 Sway tutorial for Chinese developer.
 
 
-# Link
+## Link
 FuelDevCN：https://github.com/FuelDevCN
  
 document：https://docs.fueldev.xyz/docs/sway/basics/variables/
+
+## LICENSE
+MIT
