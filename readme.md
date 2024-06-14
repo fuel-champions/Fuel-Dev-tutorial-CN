@@ -109,9 +109,9 @@ forc test
 
 ## 参考资料
 
-- [Fuel Network 官方文档](https://docs.fueldev.xyz)
-- [Fuel Network GitHub 仓库](https://github.com/FuelLabs)
 - [Rust 编程语言](https://www.rust-lang.org/zh-CN/)
+- [Fuel Network 官方文档中文翻译](https://docs.fueldev.xyz)
+- [Fuel Network GitHub 仓库](https://github.com/FuelLabs)
 
 感谢您的阅读！希望本教程能帮助您在Fuel Network上快速上手并进行开发。如果您有任何问题或建议，请提交 issue 或 pull request。
 
