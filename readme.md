@@ -117,6 +117,10 @@ forc test
 
 
 
+## 贡献者
+[![contrib graph](https://contrib.rocks/image?repo=fuel-champions/Fuel-Dev-tutorial-CN)](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/graphs/contributors)  
+
+
 ## 关于我们
 [FuelDevCN](https://github.com/FuelDevCN)是自主发起的Fuel中文开发者社区，持续构建和更新Fuel及Swag语言相关中文信息、资讯、教程及其研报。
 
