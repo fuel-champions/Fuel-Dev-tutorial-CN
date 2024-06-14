@@ -28,17 +28,18 @@ Fuel 是一个基于 UTXO 的模块化执行层，为以太坊带来了全球可
 在开始开发之前，您需要进行一些环境配置：
 
 1. 安装 Rust 编译器：
+
     ```sh
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     source $HOME/.cargo/env
     ```
 
-2. 安装 Fuel Network 开发工具：
+3. 安装 Fuel Network 开发工具：
     ```sh
     cargo install forc
     ```
 
-3. 克隆 Fuel Network 仓库：
+4. 克隆 Fuel Network 仓库：
     ```sh
     git clone https://github.com/FuelLabs/fuel-core
     cd fuel-core
@@ -108,7 +109,7 @@ forc test
 
 ## 参考资料
 
-- [Fuel Network 官方文档](https://docs.fuel.sh)
+- [Fuel Network 官方文档](https://docs.fueldev.xyz)
 - [Fuel Network GitHub 仓库](https://github.com/FuelLabs)
 - [Rust 编程语言](https://www.rust-lang.org/zh-CN/)
 
