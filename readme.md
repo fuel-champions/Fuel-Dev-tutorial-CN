@@ -150,7 +150,7 @@ forc test
 [![Mail](https://img.shields.io/badge/fueldevcn@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fueldevcn@gmail.com
 )
 
-
+---
 
 ©️ FuelDevCN
 
