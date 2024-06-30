@@ -128,6 +128,7 @@ forc test
 感谢您的阅读！希望本教程能帮助您在Fuel Network上快速上手并进行开发。如果您有任何问题或建议，请提交 issue 或 pull request。
 
 
+## 附录
 
 ## 贡献者
 [![contrib graph](https://contrib.rocks/image?repo=fuel-champions/Fuel-Dev-tutorial-CN)](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/graphs/contributors)  
