@@ -125,6 +125,9 @@ forc test
 - [Fuel Network 官方文档中文翻译](https://docs.fueldev.xyz)
 - [Fuel Network GitHub 仓库](https://github.com/FuelLabs)
 
+## 教程视频
+- [FuelNetwork Quickstart](https://www.youtube.com/watch?v=1ukwswvie5M)
+
 感谢您的阅读！希望本教程能帮助您在Fuel Network上快速上手并进行开发。如果您有任何问题或建议，请提交 issue 或 pull request。
 
 
