@@ -135,7 +135,7 @@ forc test
 ## 贡献者
 [![contrib graph](https://contrib.rocks/image?repo=fuel-champions/Fuel-Dev-tutorial-CN)](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/graphs/contributors)  
 
-贡献者是项目持续构建的原动力。
+贡献者是Fuel生态持续Build的原动力。
 
 
 ## 关于我们
