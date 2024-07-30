@@ -127,7 +127,7 @@ forc test
 
 ## 其他工具
 
-- [在本地部署fuel浏览器](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/fuel-explorer.md)
+- [在本地部署fuel浏览器](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/blob/main/fuel-explorer.md)
 
 ## 教程视频
 - [FuelNetwork Quickstart](https://www.youtube.com/watch?v=1ukwswvie5M)
