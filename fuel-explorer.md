@@ -1,8 +1,6 @@
-# 入门指南
+# 在本地部署fuel浏览器
 
-## 要求
-
-此项目包括前端和合约部分。开始之前，请安装以下依赖项：
+## 安装依赖
 
 - [Node.js v20.11.0 或最新稳定版](https://nodejs.org/en/)。我们建议使用 [nvm](https://github.com/nvm-sh/nvm) 来安装。
 - [PNPM v8.15.7 或最新稳定版](https://pnpm.io/installation/)
@@ -11,7 +9,7 @@
 - [Rust v1.76.0 或最新稳定版](https://www.rust-lang.org/tools/install)
 - [Forc v0.49.3 及最新工具链](https://install.fuel.network/latest)
 
-## 本地运行项目
+## 运行项目
 
 ### 📚 1. 获取仓库
 
