@@ -19,6 +19,7 @@
 6. [高级主题](#高级主题)
 7. [常见问题](#常见问题)
 8. [参考资料](#参考资料)
+9. [其他工具](#其他工具)
 
 ### 附录
 [贡献者](#贡献者)
@@ -123,6 +124,10 @@ forc test
 - [Rust 编程语言](https://www.rust-lang.org/zh-CN/)
 - [Fuel Network 官方文档中文翻译](https://docs.fueldev.xyz)
 - [Fuel Network GitHub 仓库](https://github.com/FuelLabs)
+
+## 其他工具
+
+- [在本地部署fuel浏览器](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN/fuel-explorer.md)
 
 ## 教程视频
 - [FuelNetwork Quickstart](https://www.youtube.com/watch?v=1ukwswvie5M)
