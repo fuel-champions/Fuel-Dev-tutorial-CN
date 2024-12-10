@@ -1,4 +1,5 @@
-# Fuel Network 中文开发者教程｜Fuel Network Chinese Developer Tutorial
+# Fuel Network 中文开发者教程
+# Fuel Network Chinese Developer Tutorial
 
 
 欢迎来到Fuel Network中文开发者教程！
