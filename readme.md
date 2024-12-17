@@ -1,3 +1,8 @@
+# Fuck FUEL
+## I don't understand why we're not eligible!
+
+## I have been a Chinese developer community for Fuel for two years and got nothing.
+
 # Fuel Network 中文开发者教程
 # Fuel Network Chinese Developer Tutorial
 
